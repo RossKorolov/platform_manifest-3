@@ -1,5 +1,5 @@
 [gerrit]
 host=review.sonic-developers.com
 port=29418
-project=platform_manifest.git
+project=SOKP/platform_manifest.git
 defaultbranch=sokp-l5.1
