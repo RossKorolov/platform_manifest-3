@@ -44,6 +44,7 @@
   <project path="packages/apps/Dialer" name="SOKP/packages_apps_Dialer" revision="sokp-l5.1" />
   <project path="packages/apps/Mms" name="SOKP/packages_apps_Mms-caf" revision="sokp-l5.1" />
   <project path="packages/apps/SonicPapers" name="SOKP/packages_apps_SonicPapers" revision="sokp-l5.1" />
+  <project path="packages/apps/SonicLauncher" name="SOKP/packages_apps_SonicLauncher" revision="sokp-l5.1" />
   <project path="packages/apps/SOKPStats" name="SOKP/packages_apps_SOKPStats" revision="sokp-l5.1" />
   <project path="packages/apps/Browser" name="SOKP/packages_apps_Browser" revision="sokp-l5.1" />
   <project path="packages/providers/MediaProvider" name="SOKP/packages_providers_MediaProvider" revision="sokp-l5.1" />
