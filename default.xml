@@ -45,7 +45,6 @@
   <project path="packages/apps/Mms" name="SOKP/packages_apps_Mms-caf" revision="sokp-l5.1" />
   <project path="packages/apps/SonicPapers" name="SOKP/packages_apps_SonicPapers" revision="sokp-l5.1" />
   <project path="packages/apps/SonicLauncher" name="SOKP/packages_apps_SonicLauncher" revision="sokp-l5.1" />
-  <project path="packages/apps/SOKPStats" name="SOKP/packages_apps_SOKPStats" revision="sokp-l5.1" />
   <project path="packages/apps/Browser" name="SOKP/packages_apps_Browser" revision="sokp-l5.1" />
   <project path="packages/providers/MediaProvider" name="SOKP/packages_providers_MediaProvider" revision="sokp-l5.1" />
   <project path="packages/providers/ThemesProvider" name="SOKP/packages_providers_ThemesProvider" revision="sokp-l5.1" />
@@ -470,7 +469,6 @@
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
   <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
-  <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
   <project path="packages/apps/Eleven" name="CyanogenMod/android_packages_apps_Eleven" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
