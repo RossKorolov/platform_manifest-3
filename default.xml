@@ -30,6 +30,7 @@
   <project path="platform_manifest" name="SOKP/platform_manifest" revision="sokp-l5.1" />
   <project path="art" name="SOKP/art" revision="sokp-l5.1" />
   <project path="bionic" name="SOKP/bionic" revision="sokp-l5.1" />
+  <project path="bootable/recovery" name="SOKP/bootable_recovery" revision="sokp-l5.1" />
   <project path="system/core" name="SOKP/system_core" revision="sokp-l5.1" />
   <project path="system/media" name="SOKP/system_media" revision="sokp-l5.1" />
   <project path="frameworks/av" name="SOKP/frameworks_av" revision="sokp-l5.1" />
@@ -54,7 +55,6 @@
   
   <!-- CM/AOSP  Repo Starts -->
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
   <project path="cts" name="CyanogenMod/android_cts" groups="cts,pdk-cw-fs" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" remote="aosp" />
   <project path="developers/build" name="platform/developers/build" remote="aosp" />
